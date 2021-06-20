@@ -1,0 +1,25 @@
+h1 {
+  font-style: italic;
+  color: white;
+  border-style: dotted;
+  border-color: green;
+  border-width: 5px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+a {
+  display:block; 
+  padding-bottom: 20px;
+}
+
+body {
+  background-color: lightgreen;
+} 
+
+button {
+  background-color: green;
+  color: white;
+}
